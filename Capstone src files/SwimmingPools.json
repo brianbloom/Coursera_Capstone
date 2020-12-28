@@ -1,0 +1,851 @@
+[ {
+  "pool_type" : "Splashpad",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Lott Splashpad",
+  "website" : {
+    "description" : "Lott Splash Pad",
+    "url" : "http://www.austintexas.gov/department/lott-splash-pad"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.269695108000064",
+    "human_address" : "{\"address\": \"1180 Curves\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.73017088999995"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Metz",
+  "website" : {
+    "description" : "Metz Pool",
+    "url" : "http://www.austintexas.gov/department/metz-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.252683793000074",
+    "human_address" : "{\"address\": \"2309 Canterbury St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.71813028399998"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Montopolis",
+  "website" : {
+    "description" : "Montopolis Pool",
+    "url" : "http://www.austintexas.gov/department/montopolis-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.231947330000025",
+    "human_address" : "{\"address\": \"1200 Montopolis Dr\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.69905656299994"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Canyon Vista",
+  "website" : {
+    "description" : "Canyon Vista Pool website",
+    "url" : "http://www.austintexas.gov/department/canyon-vista-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.427132347000054",
+    "human_address" : "{\"address\": \"8455 Spicewood Springs\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.78468953899994"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Kennemer",
+  "website" : {
+    "description" : "Kennemer Pool",
+    "url" : "http://www.austintexas.gov/department/kennemer-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.36075515300007",
+    "human_address" : "{\"address\": \"200 Dawson Rd\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.70649799899996"
+  }
+}
+, {
+  "pool_type" : "Regional",
+  "weekend" : "1:00 PM - 5:00 PM",
+  "closure_days" : "TUE/WED/SAT",
+  "weekday" : "12:15 PM - 8:00 PM",
+  "open_date" : "2020-09-26T12:15:00.000",
+  "status" : "Open",
+  "pool_name" : "Bartholomew",
+  "website" : {
+    "url" : "http://www.austintexas.gov/department/bartholomew-pool"
+  },
+  "phone" : "512-974-1650",
+  "location_1" : {
+    "latitude" : "30.302395535000073",
+    "human_address" : "{\"address\": \"1800 E 51st St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.69739842999996"
+  }
+}
+, {
+  "pool_type" : "Regional",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Walnut Creek",
+  "website" : {
+    "url" : "http://www.austintexas.gov/department/walnut-creek-pool"
+  },
+  "phone" : "512-834-0824",
+  "location_1" : {
+    "latitude" : "30.398443986000075",
+    "human_address" : "{\"address\": \"12138 N Lamar Blvd\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.67950234099999"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Parque Zaragoza",
+  "website" : {
+    "description" : "Parque Zaragoza Pool",
+    "url" : "http://www.austintexas.gov/department/parque-zaragoza-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.262200781000047",
+    "human_address" : "{\"address\": \"2611 Webberville Rd\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.71307661199995"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Patterson",
+  "website" : {
+    "description" : "Patterson Pool",
+    "url" : "http://www.austintexas.gov/department/patterson-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.296592644000043",
+    "human_address" : "{\"address\": \"4200 Brookview Dr\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.71400165799997"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Gillis",
+  "website" : {
+    "description" : "Gillis Pool",
+    "url" : "http://www.austintexas.gov/department/gillis-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.239795595000032",
+    "human_address" : "{\"address\": \"2410 Durwood Ave\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.75878452399996"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Martin",
+  "website" : {
+    "description" : "Martin Pool",
+    "url" : "http://www.austintexas.gov/department/martin-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.250938086000076",
+    "human_address" : "{\"address\": \"1626 Nash Hernandez Sr Dr\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.73110151999998"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Brentwood",
+  "website" : {
+    "description" : "Brentwood Pool",
+    "url" : "http://www.austintexas.gov/department/brentwood-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.340441576000046",
+    "human_address" : "{\"address\": \"6710 Arroyo\", \"city\": \"Seco Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.73037097399998"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Dottie Jordan",
+  "website" : {
+    "description" : "Dottie Jordan Pool",
+    "url" : "http://www.austintexas.gov/department/dottie-jordan-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.314319348000026",
+    "human_address" : "{\"address\": \"2803 Loyola Ln\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.67341137899996"
+  }
+}
+, {
+  "pool_type" : "Regional",
+  "weekend" : "9:00 AM - 7:00 PM",
+  "closure_days" : "SUN/TUE/FRI",
+  "weekday" : "9:00 AM - 7:00 PM",
+  "open_date" : "2020-09-26T09:00:00.000",
+  "status" : "Open",
+  "pool_name" : "Deep Eddy",
+  "website" : {
+    "url" : "http://www.austintexas.gov/department/deep-eddy-pool"
+  },
+  "phone" : "512-472-8546",
+  "location_1" : {
+    "latitude" : "30.277590365000037",
+    "human_address" : "{\"address\": \"401 Deep Eddy Ave\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.77288902099997"
+  }
+}
+, {
+  "pool_type" : "Splashpad",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Bartholomew Splashpad",
+  "website" : {
+    "description" : "Bartholomew Splash Pad",
+    "url" : "http://www.austintexas.gov/department/bartholomew-splash-pad"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.305630359000077",
+    "human_address" : "{\"address\": \"5201 Berkman Dr\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.69783935199996"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Murchison",
+  "website" : {
+    "description" : "Murchison Pool",
+    "url" : "http://www.austintexas.gov/department/murchison-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.35336556900006",
+    "human_address" : "{\"address\": \"7022 Hart Ln\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.75870788799995"
+  }
+}
+, {
+  "pool_type" : "Regional",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Mabel Davis",
+  "website" : {
+    "description" : "Mabel Davis",
+    "url" : "http://www.austintexas.gov/department/mabel-davis-pool"
+  },
+  "phone" : "512-441-5247",
+  "location_1" : {
+    "latitude" : "30.22025858300003",
+    "human_address" : "{\"address\": \"3427 Parker Lane\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.74271075999997"
+  }
+}
+, {
+  "pool_type" : "Regional",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Garrison",
+  "website" : {
+    "url" : "http://www.austintexas.gov/department/garrison-pool"
+  },
+  "phone" : "512-442-4048",
+  "location_1" : {
+    "latitude" : "30.212930071000073",
+    "human_address" : "{\"address\": \"6001 Menchaca Rd\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.80184931899998"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Rosewood",
+  "website" : {
+    "description" : "Rosewood Pool",
+    "url" : "http://www.austintexas.gov/department/rosewood-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.271339",
+    "human_address" : "{\"address\": \"2300 Rosewood Ave\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.713836"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Westenfield",
+  "website" : {
+    "description" : "Westenfield website",
+    "url" : "http://www.austintexas.gov/department/westenfield-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.286483287000067",
+    "human_address" : "{\"address\": \"2000 Enfield Rd\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.76496863899996"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Stacy Wading",
+  "website" : {
+    "description" : "Little Stacy Wading Pool",
+    "url" : "http://www.austintexas.gov/department/little-stacy-wading-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.241312486000027",
+    "human_address" : "{\"address\": \"1401 Sunset Lane\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.74557365799996"
+  }
+}
+, {
+  "pool_type" : "Splashpad",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Metz Splashpad",
+  "website" : {
+    "description" : "Metz Splash Pad",
+    "url" : "http://www.austintexas.gov/department/metz-splash-pad"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.252683793000074",
+    "human_address" : "{\"address\": \"2407 Canterbury St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.71813028399998"
+  }
+}
+, {
+  "pool_type" : "Regional",
+  "weekend" : "5:00 AM - 10:00 PM",
+  "closure_days" : "MON/WED/THU",
+  "weekday" : "5:00 AM - 10:00 PM",
+  "open_date" : "2020-09-26T05:00:00.000",
+  "status" : "Open",
+  "pool_name" : "Barton Springs",
+  "website" : {
+    "url" : "http://www.austintexas.gov/department/barton-springs-pool"
+  },
+  "phone" : "512-867-3080",
+  "location_1" : {
+    "latitude" : "30.265983430000063",
+    "human_address" : "{\"address\": \"2131 William Barton Dr\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.76862557799996"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Dittmar",
+  "website" : {
+    "description" : "Dittmar Pool",
+    "url" : "http://www.austintexas.gov/department/dittmar-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.185743134000063",
+    "human_address" : "{\"address\": \"1009 W Dittmar Dr\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.80106115899997"
+  }
+}
+, {
+  "pool_type" : "Splashpad",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Ricky Guerrero Splashpad",
+  "website" : {
+    "description" : "Ricky Guerrero Splash Pad",
+    "url" : "http://www.austintexas.gov/department/ricky-guerrero-splash-pad"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.246923898000034",
+    "human_address" : "{\"address\": \"1100 Brodie Street\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.76367140099995"
+  }
+}
+, {
+  "pool_type" : "Splashpad",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Clarksville Splashpad",
+  "website" : {
+    "description" : "Clarksville Splash Pad",
+    "url" : "http://www.austintexas.gov/department/clarksville-splash-pad"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.282105005000062",
+    "human_address" : "{\"address\": \"1811 W 11th St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.76410287199997"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Govalle",
+  "website" : {
+    "description" : "Govalle Pool",
+    "url" : "http://www.austintexas.gov/department/gillis-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.258835826000052",
+    "human_address" : "{\"address\": \"5200 Bolm Rd\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.69156788399994"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "12:00 PM - 6:00 PM",
+  "closure_days" : "WED/FRI/SAT",
+  "weekday" : "6:00 AM - 8:00 PM",
+  "open_date" : "2020-09-26T12:00:00.000",
+  "status" : "Open",
+  "pool_name" : "Stacy",
+  "website" : {
+    "url" : "http://austintexas.gov/department/big-stacy-pool"
+  },
+  "phone" : "512-445-0304",
+  "location_1" : {
+    "latitude" : "30.239596177000067",
+    "human_address" : "{\"address\": \"700 E Live Oak St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.74730836399999"
+  }
+}
+, {
+  "pool_type" : "Community",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Dick Nichols",
+  "website" : {
+    "description" : "Dick Nichols Pool",
+    "url" : "http://www.austintexas.gov/department/dick-nichols-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.21486475200004",
+    "human_address" : "{\"address\": \"8011 Beckett Rd\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.86331548799996"
+  }
+}
+, {
+  "pool_type" : "Community",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Givens",
+  "website" : {
+    "description" : "Givens Pool",
+    "url" : "http://www.austintexas.gov/department/givens-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.27832090800007",
+    "human_address" : "{\"address\": \"3811 E 12th St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.69072592299995"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Ramsey",
+  "website" : {
+    "url" : "http://www.austintexas.gov/department/ramsey-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.31187897700005",
+    "human_address" : "{\"address\": \"4201 Burnet Rd\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.74379847899996"
+  }
+}
+, {
+  "pool_type" : "Splashpad",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Liz Carpenter Splashpad",
+  "website" : {
+    "url" : "http://austintexas.gov/department/liz-carpenter-fountain"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.260196671000074",
+    "human_address" : "{\"address\": \"200 Dawson Rd\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.75523145399995"
+  }
+}
+, {
+  "pool_type" : "Splashpad",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Rosewood Splashpad",
+  "website" : {
+    "description" : "Rosewood Splash Pad",
+    "url" : "http://www.austintexas.gov/department/rosewood-splash-pad"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.271339",
+    "human_address" : "{\"address\": \"2300 Rosewood Ave\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.713836"
+  }
+}
+, {
+  "pool_type" : "Regional",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Northwest",
+  "website" : {
+    "description" : "Northwest Pool",
+    "url" : "http://www.austintexas.gov/department/northwest-pool"
+  },
+  "phone" : "512-453-0194",
+  "location_1" : {
+    "latitude" : "30.348728787000027",
+    "human_address" : "{\"address\": \"7000 Ardath St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.73985425299998"
+  }
+}
+, {
+  "pool_type" : "Splashpad",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Pease Splashpad",
+  "website" : {
+    "description" : "Pease Splash Pad",
+    "url" : "http://www.austintexas.gov/department/pease-splash-pad"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.28291173100007",
+    "human_address" : "{\"address\": \"1100 Kingsbury St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.75437819199999"
+  }
+}
+, {
+  "pool_type" : "Regional",
+  "weekend" : "1:00 PM - 5:00 PM",
+  "closure_days" : "SUN/MON/THU",
+  "weekday" : "4:00 PM - 8:00 PM",
+  "open_date" : "2020-09-26T13:00:00.000",
+  "status" : "Open",
+  "pool_name" : "Springwoods",
+  "website" : {
+    "url" : "http://austintexas.gov/department/springwoods-pool"
+  },
+  "phone" : "512-258-8082",
+  "location_1" : {
+    "latitude" : "30.466694790000076",
+    "human_address" : "{\"address\": \"13320 Lyndhurst St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"78729\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.78281477599995"
+  }
+}
+, {
+  "pool_type" : "Community",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Dove Springs",
+  "website" : {
+    "description" : "Dove Springs Pool",
+    "url" : "http://www.austintexas.gov/department/dove-springs-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.18812383100004",
+    "human_address" : "{\"address\": \"5801 Ainez Dr\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.73920481399995"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Shipe",
+  "website" : {
+    "description" : "Shipe Pool",
+    "url" : "http://www.austintexas.gov/department/shipe-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.306847952000055",
+    "human_address" : "{\"address\": \"4400 Ave\", \"city\": \"G Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.72711577799998"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Balcones",
+  "website" : {
+    "url" : "http://www.austintexas.gov/department/balcones-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.41340406100005",
+    "human_address" : "{\"address\": \"12017 Amherst Dr\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.72085543099996"
+  }
+}
+, {
+  "pool_type" : "Splashpad",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Chestnut Splashpad",
+  "website" : {
+    "description" : "Chestnut Splash Pad",
+    "url" : "http://www.austintexas.gov/department/bailey-splash-pad"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.27750823100007",
+    "human_address" : "{\"address\": \"2205 E 16th St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.73795600299997"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "West Austin",
+  "website" : {
+    "description" : "West Austin Pool",
+    "url" : "http://www.austintexas.gov/department/west-austin-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.27739562900007",
+    "human_address" : "{\"address\": \"1317 W 10th St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.75705321199996"
+  }
+}
+, {
+  "pool_type" : "Splashpad",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Baily Splashpad",
+  "website" : {
+    "description" : "Bailey Splash Pad",
+    "url" : "http://www.austintexas.gov/department/bailey-splash-pad"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.302605251000045",
+    "human_address" : "{\"address\": \"1201 W 33rd St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.74689354299994"
+  }
+}
+, {
+  "pool_type" : "Splashpad",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Eastwoods Splashpad",
+  "website" : {
+    "description" : "Eastwoods Splash Pad",
+    "url" : "http://www.austintexas.gov/department/eastwoods-splash-pad"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.291143504000047",
+    "human_address" : "{\"address\": \"3001 Harris Park Blvd\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.73212589899998"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Reed",
+  "website" : {
+    "description" : "Reed Pool",
+    "url" : "http://www.austintexas.gov/department/reed-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.303090361000045",
+    "human_address" : "{\"address\": \"2614 Pecos St\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.77087252699994"
+  }
+}
+, {
+  "pool_type" : "Neighborhood",
+  "weekend" : "Closed",
+  "closure_days" : "Closed for Winter",
+  "weekday" : "Closed",
+  "status" : "Closed",
+  "pool_name" : "Civitan",
+  "website" : {
+    "description" : "Civitan Pool",
+    "url" : "http://www.austintexas.gov/department/civitan-pool"
+  },
+  "phone" : "512-974-9331",
+  "location_1" : {
+    "latitude" : "30.237021979000076",
+    "human_address" : "{\"address\": \"513 Vargas Rd\", \"city\": \"Austin\", \"state\": \"TX\", \"zip\": \"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-97.69142730499999"
+  }
+}
+ ]
